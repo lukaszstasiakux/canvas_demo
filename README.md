@@ -1,8 +1,8 @@
 # canvas_demo
 a small demo project for a canvas presentation
 
-#technologies
+#technologies: 
 webpack and react
 
-#command
+#command: 
 yarn run dev-server-> start app
